@@ -1,1 +1,2 @@
-# BTS-SIO-STS-2
+# JdR
+Gestionnaire de fiches personnages et interface pour le jdr
